@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/compose-model-1659473025064.xml" value="0.45" />
+        <entry key="../../../../../layout/compose-model-1659474269128.xml" value="0.52" />
+        <entry key="../../../../../layout/compose-model-1659561796579.xml" value="0.26481481481481484" />
+        <entry key="../../../../../layout/compose-model-1659561811632.xml" value="0.335" />
+        <entry key="../../../../../layout/compose-model-1659990139718.xml" value="0.26" />
+        <entry key="../../../../../layout/compose-model-1659991889175.xml" value="0.52" />
+        <entry key="../../../../../layout/compose-model-1660007726388.xml" value="0.1" />
+        <entry key="../../../../../layout/compose-model-1660007741687.xml" value="0.2286836935166994" />
+        <entry key="../../../../../layout/compose-model-1660008220155.xml" value="0.55" />
+        <entry key="../../../../../layout/compose-model-1660077180812.xml" value="0.14814814814814814" />
+        <entry key="../../../../../layout/compose-model-1660078224330.xml" value="0.125" />
+        <entry key="../../../../../layout/compose-model-1660239664192.xml" value="0.16659698996655517" />
+        <entry key="../../../../../layout/compose-model-1660240289998.xml" value="0.1814814814814815" />
+        <entry key="../../../../../layout/compose-model-1660242228544.xml" value="0.1781818181818182" />
+        <entry key="../../../../../layout/compose-model-1660328512725.xml" value="1.0" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
